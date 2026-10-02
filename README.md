@@ -130,3 +130,4 @@ Los prompts siguientes se transcriben de las solicitudes realizadas durante el d
 - **Ajustes realizados:** se revisaron la velocidad, la dificultad, la silueta de los gatos y el volumen de la música.
 - **Aprendizaje:** el código generado debe ejecutarse y verificarse; la documentación también debe contrastarse con el código actual.
 
+> Antes de entregar, comprueba que el registro coincide con el proceso requerido por la asignatura y que las herramientas de IA indicadas son las que utilizaste.
